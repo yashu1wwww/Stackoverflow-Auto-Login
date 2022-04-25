@@ -4,3 +4,4 @@ Replace Your Stackoverflow Mail In 7th Line & Replace Your Stackoverflow Passwor
 Download The Latest Version Of Chrome Driver https://chromedriver.chromium.org/
 & Extract The File And Place To These Folder
 open cmd and enter stack.py or stack
+👉Video Tutorial-https://youtu.be/MKDUwTvotoU
